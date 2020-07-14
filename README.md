@@ -18,6 +18,9 @@ Data_produce is used for making your datasets;FCN.py can train your data;Data_zo
 correspond one by one.Please refer to the blog  for specific training steps.[link](https://blog.csdn.net/qq_40994943/article/details/85041493)
 
 
+##为了适应tensorflow2.0，代码有修改
+
+
 
 
 
