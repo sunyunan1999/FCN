@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b71b6777-2c02-44d6-aa82-880221c57e28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$restore_model_test.coverage" NAME="restore_model_test Coverage Results" MODIFIED="1544704373814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$image_16_8.coverage" NAME="image_16_8 Coverage Results" MODIFIED="1543305050910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_produce" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$json_to_png.coverage" NAME="json_to_png Coverage Results" MODIFIED="1542797180610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bo_json" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$get_batch_png.coverage" NAME="get_batch_png Coverage Results" MODIFIED="1543304746905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_produce" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$create_24wei.coverage" NAME="create_24wei Coverage Results" MODIFIED="1543063920291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_produce" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$json_to_png__1_.coverage" NAME="json_to_png (1) Coverage Results" MODIFIED="1543304145296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_produce" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1543326808394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_produce" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$seg_finally.coverage" NAME="seg_finally Coverage Results" MODIFIED="1543890011331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_TensorFlow_master$FCN.coverage" NAME="FCN Coverage Results" MODIFIED="1543326772472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XyenGt3ZRhMoAjk9s9QSGjTtBL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FCN_matrix_data" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\shanke-FCN-TensorFlow-master\FCN-TensorFlow-master\Data_produce" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.resize_1">
+    <configuration name="FCN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FCN-TensorFlow-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FCN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gaiming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FCN-TensorFlow-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gaiming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FCN-TensorFlow-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resize_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FCN-TensorFlow-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resize_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FCN-TensorFlow-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.resize_1" />
+        <item itemvalue="Python.zz" />
+        <item itemvalue="Python.FCN" />
+        <item itemvalue="Python.resize" />
+        <item itemvalue="Python.gaiming" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71b6777-2c02-44d6-aa82-880221c57e28" name="Default Changelist" comment="" />
+      <created>1542718073556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542718073556</updated>
+      <workItem from="1582022936499" duration="20521000" />
+      <workItem from="1582102298202" duration="8238000" />
+      <workItem from="1582123716166" duration="2006000" />
+      <workItem from="1582295975563" duration="7983000" />
+      <workItem from="1582358034173" duration="5361000" />
+      <workItem from="1582705098080" duration="236000" />
+      <workItem from="1582706011358" duration="1382000" />
+      <workItem from="1582786069866" duration="92000" />
+      <workItem from="1582878929777" duration="224000" />
+      <workItem from="1582880082643" duration="808000" />
+      <workItem from="1582882376172" duration="21000" />
+      <workItem from="1582883402712" duration="2098000" />
+      <workItem from="1582944238801" duration="59000" />
+      <workItem from="1582944402162" duration="2655000" />
+      <workItem from="1583145193284" duration="586000" />
+      <workItem from="1583507284597" duration="6503000" />
+      <workItem from="1583558857810" duration="13329000" />
+      <workItem from="1583573427096" duration="7733000" />
+      <workItem from="1583591730733" duration="1934000" />
+      <workItem from="1583596130044" duration="2564000" />
+      <workItem from="1583644885255" duration="1012000" />
+      <workItem from="1584001923637" duration="761000" />
+      <workItem from="1584767020187" duration="1209000" />
+      <workItem from="1584789044647" duration="465000" />
+      <workItem from="1584789981459" duration="4540000" />
+      <workItem from="1584890443940" duration="2327000" />
+      <workItem from="1584934580385" duration="1213000" />
+      <workItem from="1585047103837" duration="3505000" />
+      <workItem from="1585065146153" duration="1615000" />
+      <workItem from="1585105361302" duration="758000" />
+      <workItem from="1585117404896" duration="1250000" />
+      <workItem from="1585194241623" duration="3124000" />
+      <workItem from="1585279036547" duration="1360000" />
+      <workItem from="1585282895663" duration="6230000" />
+      <workItem from="1585309296069" duration="12173000" />
+      <workItem from="1586164424822" duration="14000" />
+      <workItem from="1586417182625" duration="802000" />
+      <workItem from="1586425579847" duration="19000" />
+      <workItem from="1586444816473" duration="4091000" />
+      <workItem from="1586564262437" duration="581000" />
+      <workItem from="1586834737632" duration="488000" />
+      <workItem from="1587004529808" duration="131000" />
+      <workItem from="1587024064275" duration="1968000" />
+      <workItem from="1587213636385" duration="2398000" />
+      <workItem from="1587808316880" duration="1404000" />
+      <workItem from="1587883137600" duration="908000" />
+      <workItem from="1587884055519" duration="602000" />
+      <workItem from="1587979125922" duration="8765000" />
+      <workItem from="1588741280668" duration="3043000" />
+      <workItem from="1589295001556" duration="270000" />
+      <workItem from="1591775625903" duration="783000" />
+      <workItem from="1591971165409" duration="16000" />
+      <workItem from="1593054838630" duration="8406000" />
+      <workItem from="1593098592235" duration="68000" />
+      <workItem from="1593132655871" duration="198000" />
+      <workItem from="1593133001199" duration="2689000" />
+      <workItem from="1593155856553" duration="909000" />
+      <workItem from="1593164002818" duration="399000" />
+      <workItem from="1593186535492" duration="98000" />
+      <workItem from="1593692600616" duration="335000" />
+      <workItem from="1593693768068" duration="2832000" />
+      <workItem from="1593935898217" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="290" y="178" key="FileChooserDialogImpl" timestamp="1593692949286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="290" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593692949286" />
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom" timestamp="1593936202194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593936202194" />
+    <state width="1493" height="115" key="GridCell.Tab.0.center" timestamp="1593936202194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593936202194" />
+    <state width="1493" height="115" key="GridCell.Tab.0.left" timestamp="1593936202194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593936202194" />
+    <state width="1493" height="115" key="GridCell.Tab.0.right" timestamp="1593936202194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593936202194" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1585299168621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585299168621" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1585299168621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585299168621" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1585299168621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585299168621" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1585299168621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585299168621" />
+    <state x="53" y="64" key="SettingsEditor" timestamp="1593935933673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="53" y="64" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593935933673" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586834758379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586834758379" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$gaiming.coverage" NAME="gaiming Coverage Results" MODIFIED="1588047345178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$zz.coverage" NAME="zz Coverage Results" MODIFIED="1593936104060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$1.coverage" NAME="1 Coverage Results" MODIFIED="1582947134103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$chazhi.coverage" NAME="chazhi Coverage Results" MODIFIED="1585208957577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$FCN.coverage" NAME="FCN Coverage Results" MODIFIED="1593935967676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$ToSan_new.coverage" NAME="ToSan_new Coverage Results" MODIFIED="1583561016114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$make_data_0_1.coverage" NAME="make_data_0.1 Coverage Results" MODIFIED="1583590086661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$make_data_test_2.coverage" NAME="make_data_test_2 Coverage Results" MODIFIED="1583584160667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$ToSan.coverage" NAME="ToSan Coverage Results" MODIFIED="1583570538480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$filter.coverage" NAME="filter Coverage Results" MODIFIED="1585194315008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$ramp_filter.coverage" NAME="ramp_filter Coverage Results" MODIFIED="1585299131380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$.coverage" NAME="迭代阈值法 Coverage Results" MODIFIED="1585288733148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$resize_1.coverage" NAME="resize_1 Coverage Results" MODIFIED="1593936186575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$make_data.coverage" NAME="make_data Coverage Results" MODIFIED="1583582819949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$make_data__1_.coverage" NAME="make_data (1) Coverage Results" MODIFIED="1583572402990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$gaiming_new.coverage" NAME="gaiming_new Coverage Results" MODIFIED="1585066341528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$make_data_0_1and0_5.coverage" NAME="make_data_0.1and0.5 Coverage Results" MODIFIED="1583585093497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$make_data_test_3.coverage" NAME="make_data_test_3 Coverage Results" MODIFIED="1583584526645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$read_MITSceneParsingData.coverage" NAME="read_MITSceneParsingData Coverage Results" MODIFIED="1582036649949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$make_data_0_1_big.coverage" NAME="make_data_0.1_big Coverage Results" MODIFIED="1583589179570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FCN_tensorflow_hzp_master$resize.coverage" NAME="resize Coverage Results" MODIFIED="1593137779917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
